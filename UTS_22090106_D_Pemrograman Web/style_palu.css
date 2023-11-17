@@ -1,0 +1,127 @@
+*{
+    font-family: sans-serif;
+    margin: 0%;
+    padding: 15px;
+    background-color: #ecf4f7;
+    color: #050101;
+}
+.a{
+    color: inherit;
+    text-decoration: none;
+}
+.body {
+    font-family: 'Arial', sans-serif;
+    margin: 80px;
+    padding: 15px;
+    background-color: #f5f8fa;
+}
+.title{
+    padding: 10px ;
+    background-color:#00bfff;  
+    width: 35%;
+    height: 10%;
+    display: inline-block;
+    margin : 15px auto;
+}
+.title ul li{
+    display: inline-block;
+    color: #070707;
+    width: 25%;
+    height: 10%;
+    margin-left: 5px;
+}
+.container_menu {
+    padding: 10px;
+    background-color:#00bfff;  
+    width: 100%;
+    height: 10%;
+    margin-top: 100%;
+}
+.container_menu ul li {
+    display: inline-block;
+    color: #070707;
+    width: 35%;
+    height: 10%;
+}
+.header {
+    border: 1px solid;
+    background-color: #00bfff;
+    text-align: left;
+    padding: 100px;
+    margin-top: auto;
+    margin: 100%;
+}
+
+.nav {
+    border: 1px solid;
+    float: center;
+    background-color: #050101;
+    color:#050101;
+    padding: 10px;
+    margin: 100%;
+    text-align: center;
+}
+
+.nav ul {
+    text-decoration: none;
+    margin: 0%;
+    padding: 42px;
+}
+.nav ul li {
+    display: inline-block;
+    margin-top: 100%;
+}
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+.section {
+    padding: 35px;
+    width: 100%;
+    margin: 50px;
+}
+.section Home{
+    font-weight:14vw;
+    padding: 15px;
+    margin: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%; 
+}
+.section text{
+    font-weight: 14vw;
+    color: #f5f8fa;
+}
+.section About{
+    font-weight:14vw;
+}
+.table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+.td, th {
+    border: 1px solid #050101;
+    text-align: left;
+    padding: 8px;
+    color :#ecf4f7;
+}
+.tr:nth-child(even) {
+    background-color: #4d4c4c;
+}
+.img {
+    max-width: 135%;
+    height: 135% auto;
+    margin-right: 45%;
+}
+.footer {
+    background-color: #00bfff;
+    text-align: center;
+    padding: 0%; 
+    position: fixed;
+    bottom: 45%;
+    width: 110%;
+    height: 98%; 
+}
